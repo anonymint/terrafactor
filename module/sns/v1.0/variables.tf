@@ -1,4 +1,4 @@
-variable "name-list" {
+variable "name_list" {
   type = "list"
 }
 
